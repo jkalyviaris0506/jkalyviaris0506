@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**jkalyviaris0506/jkalyviaris0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Jimmy Kalyviaris 👋
 
-Here are some ideas to get you started:
+🎓 I'm a Business Analytics student at the University of Iowa, graduating in **May 2025**.  
+📊 Passionate about data-driven decision-making, analytics, and solving real-world business problems.  
+🧠 Interested in data science, machine learning, data visualization, and digital product management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+- **Languages**: Python, R, SQL, HTML/CSS
+- **Analytics & BI**: Excel, Tableau, Power BI
+- **Data Science**: pandas, scikit-learn, statsmodels, Jupyter
+- **Database**: MySQL, PostgreSQL, Microsoft SQL Server
+- **Other Tools**: Git, GitHub, Azure, VS Code
+
+---
+
+
+
+---
+
+## 📫 Connect With Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/jimmy-kalyviaris/ß)  
+ 
+- 💼 Open to internships or full-time opportunities in analytics, consulting, or product strategy.
+
+---
+
+Thanks for visiting! 🚀  
